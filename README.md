@@ -10,6 +10,4 @@
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+https://github.com/kyechan99/capsule-render.git
